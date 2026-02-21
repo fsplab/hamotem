@@ -43,17 +43,21 @@
 
 * ktl_local_files.dll（KTLよりローカルストレージ操作 / &copy;Bolero MURAKAMI）
 
-有用なプラグインを多数作成・公開されているBolero MURAKAMI氏に深く感謝申し上げます。<br>
-KTLに関する最新版等の情報については、 http://www.boleros.x0.com/doc/ktlwiki/index.php?KTLWiki よりご覧ください。
+有用なプラグインを多数作成・公開されていたBolero MURAKAMI氏に深く感謝申し上げますと共に、謹んで哀悼の意を表します。<br>
+KTLに関する最新版等の情報については、 [http://www.boleros.x0.com/doc/ktlwiki/index.php?KTLWiki](https://web.archive.org/web/20180608044231/http://www.boleros.x0.com/doc/ktlwiki/index.php?KTLWiki) よりご覧ください（Wayback Machineです）。<br>
 
 また、鱧天では次のKAGプラグインを内部的に利用し、同梱して配布しています：
 
-* autoInsertLabel.ks（どこでもセーブプラグイン / 作者不詳）
+* autoInsertLabel.ks（どこでもセーブプラグイン / ~~作者不詳~~ &copy;りょーた）
 
-2015年10月現在、配布元・連絡先を見付けられず、ライセンスが不明な状態で、同梱して良いものかどうか迷ったのですが、大変有用なプラグインであり、またこれが無いと鱧天の一部機能が無効となってしまうため、やむを得ず同梱させていただいております。
+~~2015年10月現在、配布元・連絡先を見付けられず、ライセンスが不明な状態で、同梱して良いものかどうか迷ったのですが、大変有用なプラグインであり、またこれが無いと鱧天の一部機能が無効となってしまうため、やむを得ず同梱させていただいております。~~
 
-作者様にはこの場を借りて深く感謝申し上げます。<br>
-再配布に問題がある場合は、大変お手数ですが、本リポジトリの管理者までご連絡いただければ幸いです。 
+~~作者様にはこの場を借りて深く感謝申し上げます。~~ <br>
+~~再配布に問題がある場合は、大変お手数ですが、本リポジトリの管理者までご連絡いただければ幸いです。~~ <br>
+2026年1月、NovelPosts氏からご連絡をいただき、「どこでもセーブプラグイン」の作者がりょーた氏であることが判明しました。<br>
+両氏には深く感謝申し上げます。<br>
+本プラグインに関する情報については、 [http://vega.fem.jp/cgi_kiri/k_dl/sh_data/12_log.html](https://web.archive.org/web/20040806142747/http://vega.fem.jp/cgi_kiri/k_dl/sh_data/12_log.html) をご覧ください（Wayback Machineです）。<br>
+※「制作者」欄のお名前が異なっていますが、NovelPosts氏がX（旧Twitter）でりょーた氏に確認を取ってくださっていたので、ご本人かと思われます。
 
 ***
 
